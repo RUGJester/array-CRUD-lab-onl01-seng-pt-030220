@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Quen", "Aard", "Igni", "Axii"]
+  ["Quen", "Aard", "Igni", "arrays"]
 end
 
 def add_element_to_end_of_array(array, element)
